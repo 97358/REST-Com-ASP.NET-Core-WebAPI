@@ -1,0 +1,48 @@
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.deps.json
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.deps.json
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.deps.json
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.deps.json
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll

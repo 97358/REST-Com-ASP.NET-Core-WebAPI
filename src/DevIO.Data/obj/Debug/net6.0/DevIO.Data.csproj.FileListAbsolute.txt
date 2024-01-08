@@ -1,0 +1,60 @@
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI - Copia\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\Users\User\Downloads\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\Users\User\Downloads\GIT HUB\REST com ASP.NET Core WebAPI\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
