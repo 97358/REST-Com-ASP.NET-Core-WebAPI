@@ -1,8 +1,8 @@
 # REST com ASP.NET Core WebAPI #
 
-##  Visão geral de projetos focados nos fundamentos do ASP.NET MVC. ##
+##  API REST. ##
 
-📝 **Nota:** Dividindo em camadas: app, business e data.
+📝 **Nota:** Demonstração de uma API REST.
 
 🔧 **Versão**
 
