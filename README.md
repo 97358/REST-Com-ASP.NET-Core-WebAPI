@@ -1,6 +1,6 @@
 # REST com ASP.NET Core WebAPI #
 
-##  API REST. ##
+##  Desenvolvimento de uma API. ##
 
 📝 **Nota:** Demonstração de uma API REST.
 
